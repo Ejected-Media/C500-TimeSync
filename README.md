@@ -1,7 +1,7 @@
 # C500-TimeSync
 ~
 
-![°](https://github.com/Ejected-Media/C500-Discord-Bot/blob/main/1764200317313.jpg "$")
+![°](https://github.com/Ejected-Media/C500-TimeSync/blob/main/1764200317313.jpg "$")
 
 
 ___
