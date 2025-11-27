@@ -1,6 +1,9 @@
 # C500-TimeSync
 ~
 
+![°](https://github.com/Ejected-Media/C500-Discord-Bot/blob/main/1764200317313.jpg "$")
+
+
 ___
 
 I would love to help you tackle a project this afternoon! Since I don't know exactly what is on your to-do list right now, we can figure it out based on your energy level and how much time you have.
