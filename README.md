@@ -3,7 +3,11 @@
 
 ![°](https://github.com/Ejected-Media/C500-TimeSync/blob/main/1764200317313.jpg "$")
 
+![°](https://github.com/Ejected-Media/C500-TimeSync/blob/main/1764205625969.jpg "$")
 
+![°](https://github.com/Ejected-Media/C500-TimeSync/blob/main/1764205557288.jpg "$")
+
+![°](https://github.com/Ejected-Media/C500-TimeSync/blob/main/1764205479532.jpg "$")
 ___
 
 I would love to help you tackle a project this afternoon! Since I don't know exactly what is on your to-do list right now, we can figure it out based on your energy level and how much time you have.
