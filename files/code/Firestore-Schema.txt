@@ -1,0 +1,6 @@
+{
+  "start_time": "2026-11-27T15:30:00Z",
+  "end_time": "2026-11-27T16:00:00Z",
+  "status": "available", // available | locked | booked
+  "booked_by_discord_id": null
+}
