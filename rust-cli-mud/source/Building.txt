@@ -1,0 +1,5 @@
+cd ~/projects/C500-TimeSync/rust-cli-mud/source
+CARGO_BUILD_JOBS=2 cargo build --release -p mud-termux-cli
+
+# Point to your local or Cloud Run C500-TimeSync Go server and launch
+C500_TIMESYNC_URL="http://127.0.0.1:8080" ./target/release/mud-termux-cli
