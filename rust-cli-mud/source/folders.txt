@@ -1,0 +1,9 @@
+ejected-mud/
+├── Cargo.toml                 # Workspace root
+├── crates/
+│   ├── mud-core/              # World graph, rooms, entities, combat, level progression
+│   ├── tinesync-bridge/       # Adapter for Ejected Media C500-TineSync source/events
+│   └── mud-termux-cli/        # Ratatui/Crossterm CLI frontend & command parser
+└── levels/                    # Data-driven level definitions (TOML/RON)
+    ├── level_01_init.toml
+    └── level_02_sync.toml
